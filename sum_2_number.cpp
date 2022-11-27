@@ -7,7 +7,7 @@ int main()
     int a=23;
     int b=23;
 
-    cout << "result = " << a + b << endl;
+    cout << "sum of two number :" << a + b << endl;
 
     return 0;
 }
